@@ -99,8 +99,8 @@ The format for this file should be:
 {
   "version": "0.1",
   "azdevops": {
-    "organization": "yourOrganization",
-    "project": "yourProject",
+    "organization": "A&SRemodeling",
+    "project": "ProjectHousecall",
     "build_targets": {
       "linux": "Project_CI_Linux",
       "macos": "Project_CI_macOS",
